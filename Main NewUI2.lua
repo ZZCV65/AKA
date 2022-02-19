@@ -148,7 +148,7 @@ function library.new(library_title, cfg_location)
         Name = "Cursor",
         BackgroundTransparency = 1,
         Size = UDim2.new(0, 17, 0, 17),
-        Image = "rbxassetid://7205257578",
+        Image = "",
         ZIndex = 6969,
     }, ScreenGui)
 
